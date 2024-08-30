@@ -11,7 +11,7 @@ I'm Kaffah Lingga Setyawan, a passionate developer from Bogor. I enjoy working o
 
 ### ⚡ Fun Facts
 
-- 💻 I love working with avaScript, React, Node.js, HTML, CSS, SASS.
+- 💻 I love working with JavaScript, React, Node.js, HTML, CSS, SQL.
 - 🎮 When I'm not coding, I enjoy Watching anime and playing game.
 - 🌏 I'm interested in Design.
 
